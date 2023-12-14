@@ -1,0 +1,233 @@
+"China":84630
+"India":246628
+"United States":1920061
+"Indonesia":31186
+"Brazil":676494
+"Pakistan":98943
+"Nigeria":12233
+"Bangladesh":65769
+"Russia":467673
+"Mexico":113619
+"Japan":17164
+"Ethiopia":1934
+"Philippines":21895
+"Egypt":32612
+"Vietnam":329
+"DR Congo":0
+"Turkey":169218
+"Iran":171789
+"Germany":183979
+"Thailand":3112
+"United Kingdom":284868
+"France":153634
+"Tanzania":509
+"Italy":234801
+"South Africa":45973
+"Myanmar":0
+"Kenya":2600
+"South Korea":0
+"Colombia":38027
+"Spain":241310
+"Uganda":686
+"Argentina":21037
+"Ukraine":26999
+"Algeria":10050
+"Sudan":6081
+"Iraq":11098
+"Poland":25419
+"Canada":95057
+"Afghanistan":19551
+"Morocco":8132
+"Saudi Arabia":101914
+"Peru":191758
+"Uzbekistan":4022
+"Venezuela":2087
+"Malaysia":8322
+"Angola":86
+"Mozambique":352
+"Ghana":9462
+"Nepal":3448
+"Yemen":0
+"Madagascar":1026
+"North Korea":0
+"C\u00f4te d'Ivoire":0
+"Cameroon":7392
+"Australia":7255
+"Taiwan":0
+"Niger":966
+"Sri Lanka":0
+"Burkina Faso":885
+"Malawi":409
+"Mali":1485
+"Romania":20479
+"Kazakhstan":12694
+"Syria":124
+"Chile":127745
+"Zambia":0
+"Guatemala":6154
+"Zimbabwe":265
+"Netherlands":47335
+"Ecuador":42106
+"Senegal":4249
+"Cambodia":0
+"Chad":836
+"Somalia":0
+"Guinea":4060
+"South Sudan":0
+"Rwanda":0
+"Benin":339
+"Tunisia":1087
+"Burundi":0
+"Belgium":59226
+"Cuba":2133
+"Bolivia":12245
+"Haiti":2640
+"Greece":2937
+"Dominican Republic":19220
+"Czechia":0
+"Portugal":34693
+"Jordan":784
+"Sweden":44845
+"Azerbaijan":7239
+"United Arab Emirates":38808
+"Hungary":4008
+"Honduras":5880
+"Belarus":48630
+"Tajikistan":0
+"Austria":16803
+"Serbia":0
+"Switzerland":30883
+"Papua New Guinea":0
+"Israel":17783
+"Togo":485
+"Sierra Leone":929
+"Hong Kong":0
+"Laos":0
+"Bulgaria":2668
+"Paraguay":1087
+"Libya":239
+"El Salvador":2849
+"Nicaragua":1309
+"Kyrgyzstan":0
+"Lebanon":1312
+"Turkmenistan":0
+"Singapore":37910
+"Denmark":11924
+"Finland":6941
+"Congo":0
+"Slovakia":1526
+"Norway":8510
+"Eritrea":0
+"State of Palestine":0
+"Oman":16882
+"Costa Rica":1194
+"Liberia":334
+"Ireland":25183
+"Central African Republic":1570
+"New Zealand":1154
+"Mauritania":0
+"Kuwait":31848
+"Panama":16004
+"Croatia":2247
+"Moldova":9247
+"Georgia":808
+"Puerto Rico":4620
+"Bosnia and Herzegovina":2610
+"Uruguay":832
+"Mongolia":191
+"Albania":1232
+"Armenia":13130
+"Jamaica":591
+"Lithuania":1694
+"Qatar":68790
+"Namibia":25
+"Botswana":40
+"Lesotho":4
+"Gambia":26
+"Gabon":3101
+"North Macedonia":2915
+"Slovenia":1509
+"Guinea-Bissau":0
+"Latvia":1082
+"Bahrain":14224
+"Swaziland":305
+"Trinidad and Tobago":117
+"Equatorial Guinea":0
+"Timor-Leste":0
+"Estonia":1910
+"Mauritius":337
+"Cyprus":960
+"Djibouti":4123
+"Fiji":0
+"R\u00e9union":0
+"Comoros":0
+"Bhutan":0
+"Guyana":153
+"Macao":0
+"Solomon Islands":0
+"Montenegro":0
+"Luxembourg":4032
+"Western Sahara":0
+"Suriname":82
+"Cabo Verde":0
+"Micronesia":0
+"Maldives":1883
+"Guadeloupe":0
+"Brunei":141
+"Malta":622
+"Bahamas":102
+"Belize":0
+"Martinique":200
+"Iceland":1806
+"French Guiana":589
+"French Polynesia":0
+"Vanuatu":0
+"Barbados":0
+"New Caledonia":0
+"Mayotte":0
+"Sao Tome & Principe":0
+"Samoa":0
+"Saint Lucia":0
+"Guam":171
+"Channel Islands":0
+"Cura\u00e7ao":0
+"Kiribati":0
+"St. Vincent & Grenadines":0
+"Tonga":0
+"Grenada":0
+"Aruba":0
+"U.S. Virgin Islands":0
+"Antigua and Barbuda":0
+"Seychelles":0
+"Isle of Man":336
+"Andorra":852
+"Dominica":0
+"Cayman Islands":0
+"Bermuda":0
+"Greenland":0
+"Saint Kitts & Nevis":0
+"American Samoa":0
+"Northern Mariana Islands":0
+"Marshall Islands":0
+"Faeroe Islands":0
+"Sint Maarten":0
+"Monaco":0
+"Liechtenstein":0
+"Turks and Caicos":0
+"Gibraltar":174
+"San Marino":695
+"British Virgin Islands":0
+"Caribbean Netherlands":0
+"Palau":0
+"Cook Islands":0
+"Anguilla":0
+"Wallis & Futuna":0
+"Tuvalu":0
+"Nauru":0
+"Saint Pierre & Miquelon":0
+"Montserrat":0
+"Saint Helena":0
+"Falkland Islands":0
+"Niue":0
+"Tokelau":0
+"nan":2079
